@@ -4,7 +4,7 @@ Was building this simple portfolio site for my brother's photography.
 
 *This project has been scrapped, in favour of developing a better website for his photography in the future.*
 
-If you'd still like to view the project, you can take a look <a href="https://seb-jagoe.io/liam-pics/">here</a>.
+If you'd still like to view the project, you can take a look <a href="https://seb-jagoe.github.io/liam-pics/">here</a>.
 
 <hr>
 
